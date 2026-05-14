@@ -15,6 +15,8 @@ Un sistema de control de versiones son los commits que sirven para tener como su
 guardadas muchas versiones para por si en una te equivocas poder irte a la anteriror 
 y no perder todo lo que habías hecho.
 
+Es muco mejor trabajr en remoto porque asi puedes tenerlo en todos los ordenadores que 
+quieras y no malgastas espacio
 
 ## Repositorios Remotos
 
