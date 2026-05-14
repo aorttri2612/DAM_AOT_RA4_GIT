@@ -14,3 +14,8 @@ y otros que permiten manejar muchos como vs Code que puedes programar en casi cu
 Un sistema de control de versiones son los commits que sirven para tener como su propio nombre dice
 guardadas muchas versiones para por si en una te equivocas poder irte a la anteriror 
 y no perder todo lo que habías hecho.
+
+## Pruebas software
+
+Son pruebas que las hces proramando para ver como funciona tu codigo si las pasa y se 
+pone verde las has hecho bien sino tienes que cambiar tu codigo
