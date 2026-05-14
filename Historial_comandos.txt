@@ -1,0 +1,54 @@
+  196  git init
+  197  nano .gitignore
+  198  touch entornos_desarrollo.md
+  199  nano entornos_desarrollo.md
+  200  git add .
+  201  git commit -m "Version A: Version inicial creamos el archivo y le metemos cosas"
+  202  git remote add origin https://github.com/aorttri2612/DAM_AOT_RA4_GIT.git
+  203  git branch -m main
+  204  git push -u origin main
+  205  nano entornos_desarrollo.md
+  206  git add .
+  207  git commit -m "Version b: hemos añadido a entornos_desarrollo qu es un ide y ejmplos de este"
+  208  git push -u origin main
+  209  nano entornos_desarrollo.md
+  210  git add .
+  211  git commit -m "Version c: he cambiado el titulo de ide pq lo habia puesto solo con un # y he hecho el cotrol de versiones"
+  212  git push -u origin main
+  213  git branch testing
+  214  git branch
+  215  git switch testing
+  216  nano entornos_desarrollo.md
+  217  git add .
+  218  git commit -m "Version T1: Explicacion de pruebas de software preiamente he creado una nueva rama y e entrado en ella a pesar de poderlo haber hecho en un solo comando"
+  219  git push -u origin testing
+  220  nano entornos_desarrollo.md
+  221  git add .
+  222  git commit -m "Version T2: he añadido un punto de pruebas unitarias a pruebas de software creando un subpunto que he llamado pruebas unnitarias"
+  223  git push -u origin testing
+  224  nano entornos_desarrollo.md
+  225  git add .
+  226  git commit -m "Version T3: he añadido una frase final diciendo pq son buenas las pruebas automatizadas"
+  227  git push -u origin testing
+  228  git log --oneline --graph --all
+  229  git switch main
+  230  git branch
+  231  nano entornos_desarrollo.md
+  232  git add .
+  233  git commit -m "Version D: he añadido un nuevo punto en la rama main la cual ya no es igual o parecida a testing y ahora al hacer el merge tendre que escoger"
+  234  git push -u origin main
+  235  nano entornos_desarrollo.md
+  236  git add .
+  237  git commit -m "Version E: la estamos modificando aun mas las branches para despues al hacer el merge cueste mas pero en fisico solo he añadidio una frase en control de versiones"
+  238  git push -u origin main
+  239  git branch testing
+  240  git switch branch testing
+  241  git switch testing
+  242  git rebase main
+  243  git add/rm <conflicted_files>
+  244  git rebase --continue
+  245  git add .
+  246  git rebase --continue
+  247  clear
+  248  git log --oneline --graph --all
+  249  history
