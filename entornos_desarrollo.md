@@ -26,3 +26,5 @@ negra las hace una persona que no sabe normalmete programar pero sabe las condic
 que tiene que cumplir el programa.
 Las de caja blanca: las hace normalmente la persona que ha hecho el código para compobar si el código funciona sin embargo
 no tiene en cuenta todos los requisitos del programa. 
+
+Las pruebas automatizadas ayuda a mandar el codigo o el programa al cliente con el menor de los bugs/fallos posibles
