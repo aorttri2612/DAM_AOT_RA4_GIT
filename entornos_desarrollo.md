@@ -19,3 +19,10 @@ y no perder todo lo que habías hecho.
 
 Son pruebas que las hces proramando para ver como funciona tu codigo si las pasa y se 
 pone verde las has hecho bien sino tienes que cambiar tu codigo
+
+### Pruebas unitarias 
+hay de dos tipos de caja negra y de caja blanca: la diferencia es q las de caja
+negra las hace una persona que no sabe normalmete programar pero sabe las condiciones
+que tiene que cumplir el programa.
+Las de caja blanca: las hace normalmente la persona que ha hecho el código para compobar si el código funciona sin embargo
+no tiene en cuenta todos los requisitos del programa. 
